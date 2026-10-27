@@ -1,0 +1,14 @@
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+scikit-learn>=1.5
+scikit-survival>=0.23
+lifelines>=0.29
+matplotlib>=3.9
+jax[cpu]>=0.4.30
+optax>=0.2.3
+pynacl>=1.5
+cryptography>=43
+pqcrypto>=1.0
+pyreadr>=0.5
+pillow>=10
